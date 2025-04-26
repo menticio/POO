@@ -1,0 +1,6 @@
+com\maicol\payroll\Administrator.class
+com\maicol\payroll\Supervisor.class
+com\maicol\payroll\Coach.class
+com\maicol\payroll\person.class
+com\maicol\payroll\Discounts.class
+com\maicol\payroll\Payroll.class
